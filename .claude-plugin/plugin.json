@@ -1,0 +1,6 @@
+{
+  "name": "canvas-design",
+  "description": "Skill IA : création d'œuvres visuelles originales (posters, affiches) en PNG/PDF via Python/Pillow — 54 polices bundlées",
+  "version": "1.0.0",
+  "skills": "./"
+}

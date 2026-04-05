@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "canvas-design",
+  "description": "Skill IA : création d'œuvres visuelles originales (posters, affiches) en PNG/PDF via Python/Pillow — 54 polices bundlées",
+  "owner": {
+    "name": "Armel Junior",
+    "email": "armel474@github.com"
+  },
+  "plugins": [
+    {
+      "name": "canvas-design",
+      "description": "Skill IA : création d'œuvres visuelles originales (posters, affiches) en PNG/PDF via Python/Pillow — 54 polices bundlées",
+      "author": {
+        "name": "Armel Junior — DigiHunt"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
